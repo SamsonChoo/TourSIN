@@ -1,0 +1,17 @@
+[
+  { "name": "Universals Studio Singapore",
+    "url":"http://packages.asiatravel.com/packagebooking/package.search.aspx?lan=en-US&pid=492416&_ga=2.74773845.611333910.1512236803-2099497484.1512236803",
+    "file": "uss"},
+  { "name": "Adventure Cove Waterpark",
+    "url":"http://packages.asiatravel.com/packagebooking/package.search.aspx?lan=en-US&pid=453037&_ga=2.175748197.611333910.1512236803-2099497484.1512236803",
+    "file": "adventure_banner"},
+  { "name": "S.E.A. Aquariam",
+    "url":"http://packages.asiatravel.com/packagebooking/package.search.aspx?lan=en-US&pid=453034&_ga=a-2099497484.1512236803",
+    "file": "sg_sea_aquarium_banner"},
+  { "name": "Singapore Hotel with Infinity Pool",
+    "url":"https://www.marinabaysands.com/#YO4tOrDyUrPckgZY.97",
+    "file": "singapore_hotel"},
+  { "name": "Village Hotel Changi",
+    "url":"http://www.stayfareast.com/en/hotels/village-hotel-changi#",
+    "file": "village_hotel"}
+]
